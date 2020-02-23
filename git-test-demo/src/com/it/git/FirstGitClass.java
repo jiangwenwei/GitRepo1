@@ -11,4 +11,7 @@ public class FirstGitClass {
         System.out.println("Hello Git Project!");
         System.out.println("Hello Git Project!");
     }
+    public void test(){
+        System.out.println("test");
+    }
 }
